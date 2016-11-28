@@ -4,12 +4,6 @@ use Illuminate\Support\ServiceProvider;
 
 class PipedriveSignupServiceProvider extends ServiceProvider
 {
-	/**
-	 * Indicates if loading of the provider is deferred.
-	 *
-	 * @var bool
-	 */
-	protected $defer = true;
 
 	/**
 	 * Boot
